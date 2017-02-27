@@ -1,2 +1,2 @@
-# amay
-Zeno - An Interactive, Open Source, and Social Educational Robotics Platform
+# Zeno
+An Interactive, Open Source, and Social Educational Robotics Platform
